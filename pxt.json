@@ -1,0 +1,21 @@
+{
+    "name": "snake",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "micro:boy": "github:schizoakustik/microboy#v0.0.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
